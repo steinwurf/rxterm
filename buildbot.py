@@ -8,7 +8,7 @@ import shutil
 import subprocess
 from datetime import datetime
 
-project_name = 'thrift'
+project_name = 'rxterm'
 
 
 def run_command(args):
