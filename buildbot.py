@@ -117,6 +117,6 @@ def main():
 
 if __name__ == '__main__':
 
-    print("ENABLE BUILDBOT")
+    print("ENABLE BUILDBOT in buildbot.py")
     exit(0)
     main()
