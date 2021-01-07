@@ -1,0 +1,16 @@
+[
+  {
+    "name": "waf-tools",
+    "resolver": "git",
+    "method": "semver",
+    "major": 4,
+    "sources": ["github.com/steinwurf/waf-tools.git"]
+  },
+  {
+    "name": "rxterm-source",
+    "resolver": "git",
+    "method": "checkout",
+    "checkout": "43bd1f9",
+    "sources": ["github.com:LoopPerfect/rxterm.git"]
+  }
+]

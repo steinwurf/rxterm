@@ -116,7 +116,4 @@ def main():
 
 
 if __name__ == '__main__':
-
-    print("ENABLE BUILDBOT")
-    exit(0)
     main()
